@@ -2,15 +2,15 @@
 
 <img src=".github/preview-cover.jpg" alt="Demonstração do projeto para desktop." width="100%"/>
 
-### 💻 Projeto 
-Um projeto simples de Landing Page com o tema de Minecraft Web Responsivo. 
+### 💻 Project 
+Simplu si rapid. 
 
-### ⚙ Funcionalidades
-- Projeto responsivo
-- Menu de navegação hamburguer
-- Scrollbar personalisado
+### ⚙ Functionalitati
+- Proiect rapid
+- Meniu navigatie hamburger
+- Scrollbar personalizat
 
-### 🚀 Tecnologias
+### 🚀 Tehnologii
 - HTML
 - CSS
 - JavaScript
